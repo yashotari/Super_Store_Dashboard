@@ -3,6 +3,12 @@
 ## Project Overview
 This project presents an in-depth analysis of the sales distribution, profitability, and product performance for a fictional Super Store. The dashboard's purpose is to offer actionable insights into the store's operations, enabling data-driven decision-making for improving sales and profit across different regions and product categories.
 
+## Files
+- **Analysis of Super store.pdff**: Analysis report in PDF format.
+- **README.md**: Documentation and instructions.
+- **Superstore+Dataset+-+Analysis+ (1) (1).xlsx**: Dataset file.
+- **Project 1.twbx**: twbx tableu file for data visulisation.
+
 ## Dataset
 The dataset used in this project includes the following fields:
 
@@ -50,6 +56,9 @@ Leverage the insights from the dashboard to optimize business strategies.
 - **Predictive Analytics**: Implement predictive models to forecast sales and profits based on historical trends and seasonal changes.
 
 ## Contact
+- Contributions and feedback are welcome through issues and pull requests.
+- Please follow the repository's guidelines for contributions.
+- Respect licensing and data usage terms as applicable to the dataset.
 For any questions or suggestions, feel free to reach out:
 - Email('yashotari11@gmail.com')
 - LinkedIn('https://www.linkedin.com/in/yashotari/')
