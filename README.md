@@ -18,14 +18,7 @@ The dataset used in this project includes the following fields:
 - **Region Distribution**: Sales performance across different regions (Central, East, South, West).
 - **Customer Segments**: Data divided among three customer segments – Corporate, Consumer, and Home Office.
 - The data represents sales from various locations across the country.
-
-## Key Insights
-- **Category Distribution**: Technology and Office Supplies are the top-performing categories in terms of quantity sold, particularly sub-categories like Phones and Binders.
-- **Discount Impact on Profitability**: Discounts above 0.4 negatively impact profits, and deep discounts over 0.6 lead to losses. Proper discount management is critical to improving profitability.
-- **Regional Insights**: The West region is the top contributor in both sales and profit, driven by strong performance in California and Washington.
-- **Profit Spread Across States**: While some states such as California and Washington are highly profitable, others like Colorado and Oregon show significant losses, requiring operational improvements.
-- **Segment Sales**: Consumers represent the largest customer segment, followed by Corporate, with Home Office contributing the least.
-
+  
 ## Impact
 This project aims to create a positive impact on business decision-making by:
 
@@ -59,6 +52,7 @@ Leverage the insights from the dashboard to optimize business strategies.
 - Contributions and feedback are welcome through issues and pull requests.
 - Please follow the repository's guidelines for contributions.
 - Respect licensing and data usage terms as applicable to the dataset.
+  
 For any questions or suggestions, feel free to reach out:
 - Email('yashotari11@gmail.com')
 - LinkedIn('https://www.linkedin.com/in/yashotari/')
