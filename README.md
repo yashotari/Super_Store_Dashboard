@@ -51,9 +51,5 @@ Leverage the insights from the dashboard to optimize business strategies.
 ## Contact
 - Contributions and feedback are welcome through issues and pull requests.
 - Please follow the repository's guidelines for contributions.
-- Respect licensing and data usage terms as applicable to the dataset.
-  
-For any questions or suggestions, feel free to reach out:
-- Email('yashotari11@gmail.com')
-- LinkedIn('https://www.linkedin.com/in/yashotari/')
 
+Feel free to contact me for any questions or suggestions!
